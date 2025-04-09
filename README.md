@@ -1,8 +1,19 @@
-## 🚀 Deployment Instructions (Manual)
+Task 1: Containerize the Application
+Goal:
 
-To manually deploy the latest Docker image to your VM:
+✅ Create a Dockerfile
 
-1. SSH into your VM:
+✅ Run Flask app in Docker on port 5000
 
-```bash
-ssh username@your-server-ip
+Status: ✅ Completed
+
+✅ Task 2: Setup a CI/CD Pipeline
+Goal:
+
+✅ Create GitHub Actions pipeline
+
+✅ Build Docker image
+
+✅ Push image to DockerHub
+
+✅ Deploy using a script
