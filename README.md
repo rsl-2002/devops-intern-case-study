@@ -25,7 +25,7 @@ devops-manual/ ├── app/ # Flask application │ ├── app.py │ ├�
 
 ## 🚀 How to Deploy Manually
 
-### 1. SSH into your server:
+### 1
 
 git clone https://github.com/rsl-2002/devops-intern-case-study.git
 cd devops-intern-case-study
