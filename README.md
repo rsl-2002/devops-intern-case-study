@@ -19,8 +19,7 @@ devops-manual/ ├── app/ # Flask application │ ├── app.py │ ├�
 |------|-------------|--------|
 | Task 1 | Containerize the Flask app | ✅ Completed |
 | Task 2 | Setup CI/CD with GitHub Actions and DockerHub | ✅ Completed |
-| Task 3 | Basic IaC with Terraform | 🟡 In Progress |
-| Task 4 | Monitoring & Alerts | ⏳ Not Started |
+
 
 ---
 
